@@ -16,7 +16,7 @@ This project was created during the 2017 CRI Summer School by Tanguy Chotel, Pau
 # Materials
 [Materials](https://hackaday.io/project/26182/components)
 
-#Microcontroller code
+# Microcontroller code
 [Microcontroller code](https://github.com/rweinberger/connected-beehive/tree/master/arduino)
 
 1. `trans_lorafeather.ino`: uploaded to LoRa feather (transmitter); reads sensor data and sends to second LoRa feather (receiver)
