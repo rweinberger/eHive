@@ -28,9 +28,9 @@ This project was created during the 2017 CRI Summer School by Tanguy Chotel, Pau
 
 1. Wireless LoRa feather transmitter (**A**) hooked up to remote temperature probe (**B**), temperature & humidity sensor (**C**), and load cell amplifier (**D**), which is connected to scale sensors by load combinator (**shown below**)
 ![alt text][lora_trans]
-Hookup of load combinator (**E**). Each of the 4 load sensors (**F**) is attached to the board as shown. The YLW/ GRN/ WHT/ BLK/ RED pins correspond to the pins of the same name on the load cell amplifier in the previous schematic.
+2. Hookup of load combinator (**E**). Each of the 4 load sensors (**F**) is attached to the board as shown. The YLW/ GRN/ WHT/ BLK/ RED pins correspond to the pins of the same name on the load cell amplifier in the previous schematic.
 ![alt text][load_combinator]
-2. A second LoRa feather receiver (**G**) is connected to a WiFi feather (**H**). From the WiFi feather, data is sent to the web server.
+3. A second LoRa feather receiver (**G**) is connected to a WiFi feather (**H**). From the WiFi feather, data is sent to the web server.
 ![alt text][lora_to_wifi]
 
 # Website 
