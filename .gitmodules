@@ -1,6 +1,4 @@
-[submodule "connected-beehive-site"]
-	path = connected-beehive-site
-	url = https://github.com/rweinberger/connected-beehive-site
-[submodule "eHive"]
-	path = eHive
-	url = https://github.com/rweinberger/eHive
+
+[submodule "eHive-site"]
+	path = eHive-site
+	url = https://github.com/rweinberger/eHive-site
